@@ -1,4 +1,4 @@
 # BLOG-WEBSITE
- A dynamic blog website using EJS, HTML, CSS, Bootstrap, and JavaScript.
-Enabled users to seamlessly publish, update, edit, and delete blogs.
+ A dynamic blog website uses EJS, HTML, CSS, Bootstrap, JavaScript, NodeJS, and MongoDB.
+Enabled users to publish, update, edit, and delete blogs seamlessly.
 Implemented responsive design, interactive features, and secure user authentication. 
